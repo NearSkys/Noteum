@@ -68,7 +68,6 @@ Noteum is built with a highly performant stack:
 - **Backend**: Rust (Axum) ensuring maximum memory safety and performance.
 - **Frontend**: Vanilla JS + HTML5 + CSS3 (Zero heavy frameworks).
 - **Desktop**: Tauri (Lightweight and native WebVew).
-- **Database**: PostgreSQL for robust data storage.
 
 ---
 
